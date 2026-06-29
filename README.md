@@ -166,7 +166,7 @@ Example:
 # ▶️ How to Run
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/swarajpawarsj5/student-performance-prediction.git
 
 cd student-performance-prediction
 
@@ -181,6 +181,6 @@ jupyter notebook
 
 **Swaraj Pawar**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/swarajpawarsj5
 
-LinkedIn: https://www.linkedin.com/in/swarajpawar1
+LinkedIn: https://www.linkedin.com/in/swarajpawar5
